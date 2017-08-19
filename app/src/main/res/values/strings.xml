@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OrderItems</string>
+
+    <string name="product_name">Product name</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_quantity">Enter quantity</string>
+</resources>
